@@ -194,7 +194,7 @@ g.typingUnderline rect {
 </path>
 
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="middle" alignment-baseline="middle" font-style="italic" > 
+     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Network Automation | Senior Network Engineer
   </textPath>
