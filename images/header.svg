@@ -188,13 +188,13 @@ g.typingUnderline rect {
 </text>
 
 
-<path id="descriptionTyping">
+<path id="descriptionTyping" d="M 10,50 h 80">
   <animate attributeName="d" from="m20,-3 h0" to="m20,-3 h100" 
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="middle" font-style="italic" > 
+     text-anchor="middle" alignment-baseline="middle" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Network Automation | Senior Network Engineer
   </textPath>
