@@ -1,5 +1,8 @@
 <img src="images/header.svg"></img>
 
+### &nbsp; 🕵🏻 About Me
+
+&nbsp;&nbsp; A seasoned professional with a robust background in network engineering and automation, I excel in leveraging Python and Ansible to create efficient, scalable, and secure solutions. <br>&nbsp;&nbsp; My expertise lies in developing innovative network automation projects in zero-touch provisioning category. <br>With a keen focus on optimizing network operations, I am committed to driving advancements in automation technologies.<br><br>
 
 
 <!--
